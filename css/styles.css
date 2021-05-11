@@ -733,7 +733,7 @@ img {
   left: 50%;
   background-color: var(--bg-cl-cards);
   width: 528px;
-  /* min-height: 581px; */
+  height: 581px;
   transform: translate(-50%, -50%) scale(1);
 }
 
@@ -785,9 +785,9 @@ img {
   position: relative;
 }
 
-.modal-label {
+/* .modal-label {
   margin-top: 10px;
-}
+} */
 
 .modal-input {
   width: 448px;
@@ -831,7 +831,7 @@ img {
 .comments-label {
   width: 448px;
   height: 150px;
-  margin-top: 10px;
+  /* margin-top: 10px; */
 }
 
 .modal-textarea {
